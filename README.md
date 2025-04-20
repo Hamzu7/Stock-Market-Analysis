@@ -38,6 +38,6 @@ The dataset contains daily stock prices from **January to June 2017**, including
 - Add more companies for comparison
 - Apply Machine Learning for trend prediction
 
-## 🧑‍💻 Author
-Hamza – [LinkedIn Profile](https://www.linkedin.com/) *(Add your real link)*
+## Author
+Hamza – [LinkedIn Profile](www.linkedin.com/in/hamza-azam-bb3049271)
 
